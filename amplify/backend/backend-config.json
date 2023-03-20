@@ -4,50 +4,6 @@
       "build": true,
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
-    },
-    "testpythonissue1bfdc6df": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    },
-    "testpythonpythonfunction": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    }
-  },
-  "parameters": {
-    "AMPLIFY_function_testpythonissue1bfdc6df_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "testpythonissue1bfdc6df"
-        }
-      ]
-    },
-    "AMPLIFY_function_testpythonissue1bfdc6df_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "testpythonissue1bfdc6df"
-        }
-      ]
-    },
-    "AMPLIFY_function_testpythonpythonfunction_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "testpythonpythonfunction"
-        }
-      ]
-    },
-    "AMPLIFY_function_testpythonpythonfunction_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "testpythonpythonfunction"
-        }
-      ]
     }
   }
 }

@@ -13,14 +13,6 @@
     },
     "categories": {
       "function": {
-        "testpythonissue1bfdc6df": {
-          "deploymentBucketName": "amplify-testpythonissue-dev-133913-deployment",
-          "s3Key": "amplify-builds/testpythonissue1bfdc6df-4773337348545a38762b-build.zip"
-        },
-        "testpythonpythonfunction": {
-          "deploymentBucketName": "amplify-testpythonissue-dev-133913-deployment",
-          "s3Key": "amplify-builds/testpythonpythonfunction-764845474e4339584659-build.zip"
-        },
         "checkmodules": {}
       }
     }
