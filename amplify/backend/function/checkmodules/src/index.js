@@ -6,6 +6,7 @@
 
 const { v4: uuidv4 } = require('uuid');
 exports.handler = async (event) => {
+    console.log('summar');
     console.log(`EVENT: ${JSON.stringify(event)}`);
     return {
         statusCode: 200,
