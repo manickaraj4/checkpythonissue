@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "testpythonissue1e8db78e_identitypool_1e8db78e",
+    "identityPoolName": "checkpythonissueabe1e976_identitypool_abe1e976",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "testpy1e8db78e",
-    "userPoolName": "testpythonissue1e8db78e_userpool_1e8db78e",
+    "resourceNameTruncated": "checkpabe1e976",
+    "userPoolName": "checkpythonissueabe1e976_userpool_abe1e976",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -31,15 +31,15 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "testpy1e8db78e_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "checkpabe1e976_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "1e8db78e",
-    "resourceName": "testpythonissue1e8db78e",
+    "sharedId": "abe1e976",
+    "resourceName": "checkpythonissueabe1e976",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "defaultSocial",
     "hostedUI": true,
     "triggers": {},
-    "hostedUIDomainName": "testpythonissue1e8db78e-1e8db78e",
+    "hostedUIDomainName": "checkpythonissueabe1e976-abe1e976",
     "authProvidersUserPool": [
       "Google"
     ],

@@ -18,7 +18,7 @@
     }
   },
   "auth": {
-    "testpythonissue1e8db78e": {
+    "checkpythonissueabe1e976": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -50,6 +50,24 @@
       "build": true,
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_checkmodules_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "checkmodules"
+        }
+      ]
+    },
+    "AMPLIFY_function_checkmodules_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "checkmodules"
+        }
+      ]
     }
   }
 }
