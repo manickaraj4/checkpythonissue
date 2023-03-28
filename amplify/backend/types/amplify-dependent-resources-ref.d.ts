@@ -10,6 +10,7 @@ export type AmplifyDependentResourcesAttributes = {
     "checkpythonissueabe1e976": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
+      "GoogleWebClient": "string",
       "HostedUIDomain": "string",
       "IdentityPoolId": "string",
       "IdentityPoolName": "string",

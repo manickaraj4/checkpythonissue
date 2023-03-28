@@ -19,7 +19,9 @@
         }
       },
       "auth": {
-        "checkpythonissueabe1e976": {}
+        "checkpythonissueabe1e976": {
+          "googleClientId": "776696338187-qui6rd62ku5bnkaeda5caumijn6s6rpn.apps.googleusercontent.com"
+        }
       },
       "api": {
         "testpythonissue": {}

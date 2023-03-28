@@ -53,6 +53,14 @@
     }
   },
   "parameters": {
+    "AMPLIFY_auth_checkpythonissueabe1e976_googleClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "checkpythonissueabe1e976"
+        }
+      ]
+    },
     "AMPLIFY_function_checkmodules_deploymentBucketName": {
       "usedBy": [
         {
